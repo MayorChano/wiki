@@ -1,1 +1,1 @@
-# wiki
+# MyWiki I made for fun
