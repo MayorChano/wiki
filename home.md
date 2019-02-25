@@ -5,7 +5,7 @@
 
 ### I am a backend and frontend developer working mainly with Javascript HTML and PHP. I am currently learning python to expand my knowledge! I started coding in August 2018 when I used the discord.js library to make a Discord Bot I now call Mr. Bank. Coding is my passion and I hope to continue it throughout my life.
 
-## Project 1: BankBot [Mr. Bank](https://bot.mayorchano.me)
+## Project 1: [Mr. Bank](https://bot.mayorchano.me)
 
 ## Project 2: [Website](https://mayorchano.me)
 ### I have always loved webdesign and when I started my IB course in Programming I was amazed. A website to me was a fantastic way to spread creations accross the internet and I knew I always wanted my own. I'll admit, my first tries looked like they came out of the 2000s but I have been learning ever since. With some help I made this website you see today. I can't wait to explore new websites using PHP and EJS.
