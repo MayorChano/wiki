@@ -1,5 +1,7 @@
 <!-- TITLE: Mrbank -->
-<!-- SUBTITLE: My first project! -->
+<!-- SUBTITLE: My first project!
+Languages: Node.js, HTML
+-->
 
 # Project 1: [Mr. Bank](https://bot.mayorchano.me)
 
