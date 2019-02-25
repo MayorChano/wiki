@@ -1,5 +1,5 @@
 <!-- TITLE: Mrbank -->
-<!-- SUBTITLE: A quick summary of Mrbank -->
+<!-- SUBTITLE: My first project! -->
 
 # Project 1: [Mr. Bank](https://bot.mayorchano.me)
 
