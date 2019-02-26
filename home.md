@@ -15,4 +15,3 @@
 ## Project 4: [GuildClean](https://guildclean.glitch.me)
 
 ## Project 5: [DiscordLists](https://lists.mayorchano.me) (Current Project)
-### DiscordLists was one of my bigger projects when it comes to backend because I needed to run through multiple APIs and display the content easily. This helped my learn how to use a "cache" where I made an array that cleared every hour that I would store information in so that I wouldn't have to request the APIs as often. This is also my most favorite project so far.
