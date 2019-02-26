@@ -1,24 +1,13 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Meet MayorChano -->
+#### Table of Contents
 
-- - [[Installation]]
+- [[Installation]]
 - [[Adding Table of Contents|Table of Contents Extension]]
 - [[Adding GitHub Wiki to IntelliJ Project]]
 - [[Changing Boot JDK]]
 - [[Customizing HTML Preview]]
 - Configuration and Customization
-  - [[Document Format Settings]]
-  - [[Plugin Settings|Application Settings]]
-    - [[Editor Settings]]
-    - [[Preview Settings]]
-    - [[Parser Settings]]
-    - [[Stylesheet Settings]]
-    - [[Html Generation Settings]]
-    - [[Html Export Settings]]
-    - [[Modifying Link Processing|Link Map Settings]]
-    - [[Custom Rendering Profiles|Rendering Profiles Settings]]
-    - [[Experimental and Internal Tweaks|Debug Settings]]
-- Markdown Extensions
 
 # So you want to learn about MayorChano?
 
