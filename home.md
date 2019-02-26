@@ -9,7 +9,6 @@
 
 
 ## Project 2: [Website](https://mayorchano.me)
-### I have always loved webdesign and when I started my IB course in Programming I was amazed. A website to me was a fantastic way to spread creations accross the internet and I knew I always wanted my own. I'll admit, my first tries looked like they came out of the 2000s but I have been learning ever since. With some help I made this website you see today. I can't wait to explore new websites using PHP and EJS.
 
 ## Project 3: [Text-Talk](https://tt.mayorchano.me)
 ### Text-Talk has been one of my favorite projects of 2018 for many reasons. It is the culmination of all the knowledge I have gathered in the past year on JavaScript and therefore has made it my most efficent and fast Discord Bot. It is a communications bot, acting as a messaging app between "servers" letting everyone communicate and socialize. It has already gained over 40,000 users since its release 3 weeks ago!
