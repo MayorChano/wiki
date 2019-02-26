@@ -11,7 +11,6 @@
 ## Project 2: [Website](https://mayorchano.me)
 
 ## Project 3: [Text-Talk](https://tt.mayorchano.me)
-### Text-Talk has been one of my favorite projects of 2018 for many reasons. It is the culmination of all the knowledge I have gathered in the past year on JavaScript and therefore has made it my most efficent and fast Discord Bot. It is a communications bot, acting as a messaging app between "servers" letting everyone communicate and socialize. It has already gained over 40,000 users since its release 3 weeks ago!
 
 ## Project 4: [GuildClean](https://guildclean.glitch.me)
 ### GuildClean was an idea of mine to collaborate with some of the people I had met along my trip of coding. It is a smooth bot that creates, saves and backups guilds so that Discord users always feel safe. One problem of discord servers is that someone always comes along and bombs them so I decided to have a backup system connected to an online dashboard. It is also rapidly growing!
