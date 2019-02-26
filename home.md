@@ -8,10 +8,10 @@
 
 ## Project 1:<button style="border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s" onmouseover="this.style = 'border: none; color: darkblue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onmouseout="this.style = 'border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onclick="window.location.href = window.location.href.split('/')[0] + '/mrbank'">Mr. Bank</button>
 
-## Project 2: [Website](https://mayorchano.me)
+## Project 2:<button  style="border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s" onmouseover="this.style = 'border: none; color: darkblue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onmouseout="this.style = 'border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onclick="window.location.href = window.location.href.split('/')[0] + '/website'">Website</button>
 
-## Project 3: [Text-Talk](https://tt.mayorchano.me)
+## Project 3:<button  style="border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s" onmouseover="this.style = 'border: none; color: darkblue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onmouseout="this.style = 'border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onclick="window.location.href = window.location.href.split('/')[0] + '/text-talk'">Text-Talk</button>
 
-## Project 4: [GuildClean](https://guildclean.glitch.me)
+## Project 4:<button  style="border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s" onmouseover="this.style = 'border: none; color: darkblue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onmouseout="this.style = 'border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onclick="window.location.href = window.location.href.split('/')[0] + '/guildclean'">GuildClean</button>
 
-## Project 5: [DiscordLists](https://lists.mayorchano.me) (Current Project)
+## Project 5:<button  style="border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s" onmouseover="this.style = 'border: none; color: darkblue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onmouseout="this.style = 'border: none; color: blue;background: none;border-radius: 0%; font-size: 17px; transition: 0.25s'" onclick="window.location.href = window.location.href.split('/')[0] + '/discordlists'">DiscordLists</button>
