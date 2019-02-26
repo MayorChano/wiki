@@ -7,13 +7,13 @@
 <h2> I am a backend and frontend developer working mainly with Javascript HTML and PHP. I am currently learning python to expand my knowledge! I started coding in August 2018 when I used the discord.js library to make a Discord Bot I now call Mr. Bank. Coding is my passion and I hope to continue it throughout my life.</h2>
 
 <style>
-button {
+#button {
 	border: none; 
 	color: blue;
 	background: none;
 	border-radius: 0%
 }</style>
-## Project 1: <button onclick="window.location.href = window.location.href + '/mrbank'">Mr. Bank</button>
+## Project 1: <button id="button" onclick="window.location.href = window.location.href + '/mrbank'">Mr. Bank</button>
 
 ## Project 2: [Website](https://mayorchano.me)
 
